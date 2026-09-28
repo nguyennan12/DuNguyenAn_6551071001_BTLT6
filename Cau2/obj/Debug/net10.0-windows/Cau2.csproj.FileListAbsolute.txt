@@ -1,0 +1,14 @@
+E:\.Net\Winform\School\Buoi6\Cau2\bin\Debug\net10.0-windows\Cau2.exe
+E:\.Net\Winform\School\Buoi6\Cau2\bin\Debug\net10.0-windows\Cau2.deps.json
+E:\.Net\Winform\School\Buoi6\Cau2\bin\Debug\net10.0-windows\Cau2.runtimeconfig.json
+E:\.Net\Winform\School\Buoi6\Cau2\bin\Debug\net10.0-windows\Cau2.dll
+E:\.Net\Winform\School\Buoi6\Cau2\bin\Debug\net10.0-windows\Cau2.pdb
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfoInputs.cache
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfo.cs
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.CoreCompileInputs.cache
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.dll
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\refint\Cau2.dll
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.pdb
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\Cau2.genruntimeconfig.cache
+E:\.Net\Winform\School\Buoi6\Cau2\obj\Debug\net10.0-windows\ref\Cau2.dll
